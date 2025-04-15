@@ -1,0 +1,25 @@
+.account-settings {
+    padding: 2rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    max-width: 800px;
+  }
+  
+  .account-settings .ant-tabs-nav {
+    margin-bottom: 2rem;
+  }
+  
+  .account-settings .ant-tabs-tab {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+  }
+  
+  .account-settings .ant-tabs-tab-active {
+    font-weight: 500;
+  }
+  
+  .account-settings .ant-tabs-ink-bar {
+    height: 3px;
+  }
