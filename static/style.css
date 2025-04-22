@@ -1,0 +1,26 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 2rem;
+    background-color: #1f1f1f;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #00d4ff;
+}
+
+h1 {
+    color: #00d4ff;
+}
+
+p {
+    font-size: 1.2rem;
+}
